@@ -1,1 +1,1 @@
-module twiggg.com/lk/trading/shared/langs
+module github.com/twiggg/lk/trading/shared/langs

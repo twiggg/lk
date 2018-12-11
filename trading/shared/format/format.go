@@ -10,7 +10,7 @@ import (
 
 	"github.com/jinzhu/now"
 
-	"twiggg.com/lk/trading/shared/langs"
+	"github.com/twiggg/lk/trading/shared/langs"
 )
 
 //Market returns the name from base and quote currencies
