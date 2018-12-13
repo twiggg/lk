@@ -1,0 +1,4 @@
+github.com/jinzhu/now v0.0.0-20181116074157-8ec929ed50c3 h1:xvj06l8iSwiWpYgm8MbPp+naBg+pwfqmdXabzqPCn/8=
+github.com/jinzhu/now v0.0.0-20181116074157-8ec929ed50c3/go.mod h1:oHTiXerJ20+SfYcrdlBO7rzZRJWGwSTQ0iUY2jI6Gfc=
+github.com/twiggg/lk/trading/shared/langs v0.0.0-20181211211801-357db78637a3 h1:3/5bNQqTWwgS5OyOJrAjUPyJxZTX8btoCris86Lmkrk=
+github.com/twiggg/lk/trading/shared/langs v0.0.0-20181211211801-357db78637a3/go.mod h1:qBv0lqyv2TUAmpokhy1HIDOT/8zPxVDOsvohDNVZvFQ=
